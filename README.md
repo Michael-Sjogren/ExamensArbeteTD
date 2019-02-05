@@ -1,2 +1,2 @@
 # Mars Tower Defense
-A 2D Tower defense game that we made in school as an examination project.
+A 2D Tower defense game that we made in school as an examination project in collabiration with another classmate.
